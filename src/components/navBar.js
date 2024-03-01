@@ -19,7 +19,7 @@ export default function Navbar() {
   return (
     <section id="navbar">
       <NavLink to="" className="logo">
-        <img src="./img/logo.png" alt="logo"></img>
+        {/* <img src="./img/logo.png" alt="logo"></img> */}
       </NavLink>
 
       <div>
